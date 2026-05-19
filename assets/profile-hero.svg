@@ -1,0 +1,72 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Pedro Fonseca profile banner</title>
+  <desc id="desc">Animated banner about EdTech, data workflows, and digital products for education.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0F172A"/>
+      <stop offset="0.48" stop-color="#123F46"/>
+      <stop offset="1" stop-color="#14532D"/>
+    </linearGradient>
+    <linearGradient id="line" x1="150" y1="300" x2="1030" y2="60" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#38BDF8"/>
+      <stop offset="0.5" stop-color="#22C55E"/>
+      <stop offset="1" stop-color="#FACC15"/>
+    </linearGradient>
+    <filter id="softGlow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="9" result="blur"/>
+      <feColorMatrix in="blur" type="matrix" values="0 0 0 0 0.22 0 0 0 0 0.74 0 0 0 0 0.97 0 0 0 0.6 0"/>
+      <feBlend in="SourceGraphic" mode="screen"/>
+    </filter>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M 48 0 L 0 0 0 48" fill="none" stroke="#FFFFFF" stroke-opacity="0.08" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="360" rx="28" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="28" fill="url(#grid)"/>
+
+  <circle cx="1000" cy="72" r="150" fill="#22C55E" opacity="0.16">
+    <animate attributeName="r" values="130;170;130" dur="8s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.1;0.2;0.1" dur="8s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="210" cy="290" r="130" fill="#38BDF8" opacity="0.12">
+    <animate attributeName="r" values="110;150;110" dur="9s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.08;0.18;0.08" dur="9s" repeatCount="indefinite"/>
+  </circle>
+
+  <path d="M170 285 C280 190 360 235 470 152 C580 68 680 122 785 87 C890 52 950 65 1030 45"
+        stroke="url(#line)" stroke-width="5" stroke-linecap="round" opacity="0.88" filter="url(#softGlow)">
+    <animate attributeName="stroke-dasharray" values="0 980;980 0;980 0" dur="6s" repeatCount="indefinite"/>
+    <animate attributeName="stroke-dashoffset" values="0;-80;-160" dur="6s" repeatCount="indefinite"/>
+  </path>
+
+  <g opacity="0.96">
+    <circle cx="170" cy="285" r="10" fill="#38BDF8"/>
+    <circle cx="470" cy="152" r="10" fill="#22C55E"/>
+    <circle cx="785" cy="87" r="10" fill="#FACC15"/>
+    <circle cx="1030" cy="45" r="10" fill="#F8FAFC"/>
+    <circle cx="170" cy="285" r="20" stroke="#38BDF8" stroke-width="2" opacity="0.5">
+      <animate attributeName="r" values="16;28;16" dur="3.5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.6;0.1;0.6" dur="3.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="785" cy="87" r="20" stroke="#FACC15" stroke-width="2" opacity="0.5">
+      <animate attributeName="r" values="16;30;16" dur="4.2s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.55;0.08;0.55" dur="4.2s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <g transform="translate(72 70)">
+    <rect x="0" y="0" width="660" height="218" rx="24" fill="#020617" opacity="0.62"/>
+    <rect x="0.5" y="0.5" width="659" height="217" rx="23.5" stroke="#FFFFFF" stroke-opacity="0.14"/>
+    <text x="34" y="60" fill="#E2E8F0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="20" font-weight="600" letter-spacing="3">EDTECH / DATA / PRODUCT</text>
+    <text x="34" y="118" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="48" font-weight="800">Pedro Fonseca</text>
+    <text x="34" y="160" fill="#BAE6FD" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="25" font-weight="600">Research into structured, usable education tools</text>
+    <text x="34" y="196" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18">auditable workflows - institutional systems - product prototypes</text>
+  </g>
+
+  <g transform="translate(810 188)">
+    <rect x="0" y="0" width="270" height="92" rx="18" fill="#FFFFFF" opacity="0.1"/>
+    <text x="24" y="34" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700">Operating loop</text>
+    <text x="24" y="63" fill="#D1FAE5" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15">map -> structure -> build -> document</text>
+  </g>
+</svg>
