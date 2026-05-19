@@ -1,30 +1,32 @@
 # Pedro Fonseca
 
-Software developer focused on building clear, useful web applications for education, knowledge organization, and digital products.
+I build educational technology, structured-data workflows, and knowledge tools that turn research into usable digital products.
 
-I work mainly with modern frontend technologies, product prototypes, and systems that help people understand, organize, and act on complex information.
+My work sits between education, data strategy, and software engineering: public data maps, institutional systems, dashboards, and prototypes that help teams understand complex information and act on it.
 
 ## Focus
 
-- Web application development with React, Vite, TypeScript, JavaScript, and CSS
-- Educational technology, learning platforms, and knowledge tools
-- Product-oriented prototypes with attention to usability and maintainability
-- Structured data, SQL/PLpgSQL, and practical application architecture
+- Educational technology, learning platforms, and knowledge organization tools
+- Research workflows with auditable data, reproducible methods, and clear documentation
+- Web applications built with React, Next.js, TypeScript, JavaScript, Python, and SQL
+- Product-oriented prototypes with attention to usability, maintainability, and institutional context
 
-## Selected Work
+## Public Work
 
-| Project | Description | Stack |
+| Project | What it shows | Stack / methods |
 | --- | --- | --- |
-| [Sinapse](https://github.com/pedrofernando0/sinapse) | Integrated student and teacher educational platform prototype. | React, Vite, JavaScript, CSS, PLpgSQL |
-| [Map of Innovation](https://github.com/pedrofernando0/map-of-innovation-2) | Interactive knowledge map for exploring innovation themes and content. | TypeScript, MDX, CSS |
-| [PET Historia USP Website](https://github.com/pedrofernando0/v0-pet-historia-usp-website) | Public website for PET Historia USP content and institutional presence. | TypeScript, CSS |
+| [Mapeamento de contatos institucionais de cursos de Historia](https://github.com/pedrofernando0/mapa-contatos-historia-universidades-publicas) | Auditable mapping of public Brazilian universities with History programs and institutional contact evidence. | Python, pandas, Excel, public data, documentary research |
+| [PET Historia USP Digital Archive Prototype](https://github.com/pedrofernando0/v0-pet-historia-usp-website) | Interface prototype for cataloging documents, people, reports, and historical records from PET Historia USP. | Next.js, TypeScript, Tailwind CSS, React UI |
+| [PET Historia USP System Prototype](https://github.com/pedrofernando0/pet-historia-usp-sistema) | Product brief for academic and operational workflows around PET Historia USP. | EdTech, research operations, product architecture |
 
-## Engineering Standards
+## Working Standards
 
 - Clear interfaces and readable implementation over unnecessary complexity
-- Consistent Git history, descriptive repository metadata, and focused documentation
-- User-facing products that prioritize clarity, navigation, and long-term maintenance
+- Documentation that explains purpose, data sources, limits, and how to reproduce work
+- User-facing products designed for clarity, navigation, and long-term maintenance
+- Repository metadata, topics, and READMEs kept aligned with the real project status
 
 ## Contact
 
 - GitHub: [@pedrofernando0](https://github.com/pedrofernando0)
+- LinkedIn: [pedrodfonseca](https://www.linkedin.com/in/pedrodfonseca/)
