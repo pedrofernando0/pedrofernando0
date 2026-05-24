@@ -74,17 +74,6 @@ Atuo na interseção entre educação, dados e engenharia de software — constr
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pedrofernando0&show_icons=true&theme=default&rank_icon=github" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pedrofernando0&theme=default" alt="GitHub Streak">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrofernando0&layout=compact&theme=default" alt="Top Languages">
-</p>
-
 ---
 
 ## Explore
