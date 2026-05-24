@@ -49,24 +49,6 @@ Atuo na interseção entre educação, dados e engenharia de software — constr
 
 ## Featured Projects
 
-<p align="center">
-  <a href="https://github.com/pedrofernando0/spotify-curation">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pedrofernando0&repo=spotify-curation&theme=default" alt="spotify-curation">
-  </a>
-  <a href="https://github.com/pedrofernando0/mapa-contatos-historia-universidades-publicas">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pedrofernando0&repo=mapa-contatos-historia-universidades-publicas&theme=default" alt="mapa-contatos-historia-universidades-publicas">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/pedrofernando0/v0-pet-historia-usp-website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pedrofernando0&repo=v0-pet-historia-usp-website&theme=default" alt="v0-pet-historia-usp-website">
-  </a>
-  <a href="https://github.com/pedrofernando0/pet-historia-usp-sistema">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pedrofernando0&repo=pet-historia-usp-sistema&theme=default" alt="pet-historia-usp-sistema">
-  </a>
-</p>
-
 | Project | Description | Stack |
 |---------|-------------|-------|
 | [spotify-curation](https://github.com/pedrofernando0/spotify-curation) | Personalized playlist curation powered by your own library — no algorithm, no black box | ![Python](https://img.shields.io/badge/Python-0f172a?style=flat-square&logo=python&logoColor=3776AB) ![CLI](https://img.shields.io/badge/CLI-0f172a?style=flat-square) |
