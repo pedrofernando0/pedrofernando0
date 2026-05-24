@@ -108,7 +108,7 @@ Atuo na interseção entre educação, dados e engenharia de software — constr
   <a href="https://www.linkedin.com/in/pedrodfonseca/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-pedrodfonseca-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:pedrodfonseca@gmail.com">
+  <a href="mailto:pedrofernandodfonseca@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-pedrodfonseca%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
